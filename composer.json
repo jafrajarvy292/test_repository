@@ -1,0 +1,17 @@
+{
+    "name": "jafrajarvy292/downloadme",
+    "require": {
+        "php": ">=7.1.0",
+        "ext-curl": "*",
+        "ext-xml": "*",
+        "ext-openssl": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "psr-4": {
+            "jafrajarvy292\\downloadme\\": "src/"
+        }
+    }
+}
