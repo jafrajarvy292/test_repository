@@ -9,7 +9,7 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^7"
-    },
+    },asdf
     "autoload": {
         "psr-4": {
             "jafrajarvy292\\downloadme\\": "src/"
