@@ -7,7 +7,7 @@
         "ext-openssl": "*",
         "phpunit/phpunit": "^7"
     },
-    "require-dev": {
+    "require-dev": {asdfafds
         "phpunit/phpunit": "^7"
     },asdf
     "autoload": {
