@@ -3,7 +3,7 @@
     "require": {
         "php": ">=7.1.0",
         "ext-curl": "*",
-        "ext-xml": "*",
+        "ext-xml": "*",asdfasdf
         "ext-openssl": "*",
         "phpunit/phpunit": "^7"
     },
